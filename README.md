@@ -8,6 +8,8 @@ This repository contains my professional certifications, internship experience l
 
 ### AI Research Intern — Bizhues Pvt. Ltd.
 Duration: June 2025 – August 2025
+Link
+https://github.com/pratiksha270/Certifications/blob/main/Internship%20Certificate/Bizhues_Internship_Certificate.pdf
 
 Worked on a PDF-based Search and Question-Answering System involving:
 - Semantic and text search
@@ -18,6 +20,8 @@ Worked on a PDF-based Search and Question-Answering System involving:
 
 ### Student Researcher — IBM Collaborative Project (Pheme Software Pvt. Ltd.)
 Duration: June 2025 – July 2025
+Link
+https://github.com/pratiksha270/Certifications/blob/main/Internship%20Certificate/IBM_PhemeSoft_Internship_Certificate.pdf
 
 Worked on breast cancer classification using deep learning models including:
 - CNN
