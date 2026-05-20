@@ -31,12 +31,12 @@ Worked on breast cancer classification using deep learning models including:
 
 ---
 
-## Certifications & Courses
+## Certifications & Courses 
 
 - Generative AI for Growth Marketing Specialization (IBM & Coursera)
 - Generative AI: Introduction and Applications (IBM)
 - Grow with AI: Your AI-driven Growth Marketing Strategy
-- Google Data Analytics: Foundations – Data, Data, Everywhere
+- Google Data Analytics: Foundations – Data, Data, Everywhere 
 - Ask Questions to Make Data-Driven Decisions
 - AWS Solutions Architecture Job Simulation
 - Accenture Software Engineering Job Simulation
@@ -47,6 +47,7 @@ Worked on breast cancer classification using deep learning models including:
 ## Achievements
 
 - Winner – Project Presentation, IBM ICE Day Event at UPES Dehradun (2024)
+Link : https://github.com/pratiksha270/Certifications/blob/main/Courses%20Certificate/Form.pdf
 
 ---
 
